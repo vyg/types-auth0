@@ -1,0 +1,74 @@
+{
+    "name": "@types/auth0",
+    "version": "2.33.1",
+    "description": "TypeScript definitions for auth0",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Seth Westphal",
+            "url": "https://github.com/westy92",
+            "githubUsername": "westy92"
+        },
+        {
+            "name": "Ian Howe",
+            "url": "https://github.com/ianhowe76",
+            "githubUsername": "ianhowe76"
+        },
+        {
+            "name": "Alex Bjørlig",
+            "url": "https://github.com/dauledk",
+            "githubUsername": "dauledk"
+        },
+        {
+            "name": "Dan Rumney",
+            "url": "https://github.com/dancrumb",
+            "githubUsername": "dancrumb"
+        },
+        {
+            "name": "Peter",
+            "url": "https://github.com/pwrnrd",
+            "githubUsername": "pwrnrd"
+        },
+        {
+            "name": "Anthony Messerschmidt",
+            "url": "https://github.com/CatGuardian",
+            "githubUsername": "CatGuardian"
+        },
+        {
+            "name": "Meng Bernie Sung",
+            "url": "https://github.com/MengRS",
+            "githubUsername": "MengRS"
+        },
+        {
+            "name": "Léo Haddad Carneiro",
+            "url": "https://github.com/Scoup",
+            "githubUsername": "Scoup"
+        },
+        {
+            "name": "Isabela Morais",
+            "url": "https://github.com/isabela-morais",
+            "githubUsername": "isabela-morais"
+        },
+        {
+            "name": "Raimondo Butera",
+            "url": "https://github.com/rbutera",
+            "githubUsername": "rbutera"
+        },
+        {
+            "name": "Piotr Błażejewicz",
+            "url": "https://github.com/peterblazejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/auth0"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "26fb73283cfdbe0db94cded91ee932b617d73d559721430f4c0b9149443f2685",
+    "typeScriptVersion": "3.4"
+}
